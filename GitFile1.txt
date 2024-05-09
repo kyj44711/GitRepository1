@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Contents3
+=======
+Contents6
+>>>>>>> feature2
