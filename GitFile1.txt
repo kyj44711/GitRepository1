@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Contents3
 =======
 Contents6
 >>>>>>> feature2
+=======
+Contents9
+>>>>>>> feature1
